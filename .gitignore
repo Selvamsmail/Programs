@@ -1,0 +1,28 @@
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.ico
+
+# Ignore all document files
+*.doc
+*.docx
+*.pdf
+*.txt
+*.rtf
+*.odt
+*.xls
+*.xlsx
+*.csv
+*.ppt
+*.pptx
+*.pps
+*.ppsx
+*.odp
+*.ods
+*.odg
+*.odf
+*.parquet
