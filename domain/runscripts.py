@@ -10,7 +10,7 @@ if __name__ == "__main__":
     script_names = [
         "1_domain_click.py",
         "2_domain_click.py",
-        "3_domain_click.py",
+        "3_domain_click.py", 
         # Add more script names as needed
     ]
 

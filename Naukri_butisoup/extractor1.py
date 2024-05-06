@@ -144,7 +144,6 @@ while strng < len(linksdf):
             'posted_on':posted_on,
             'current_date':current_date,
             'link':row['link'],
-            'sal_range': row['sal_range']
         }
         for i in range(len(l)):
             data['skill'+str(i+1)]=l[i]
